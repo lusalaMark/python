@@ -1,2 +1,2 @@
 # python
-codes for the python programming language 
+python programming  
